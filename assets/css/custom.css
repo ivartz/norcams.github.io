@@ -357,6 +357,13 @@ h4 {
     max-height: 70px;
 }
 
+/* Wide lockup (4:1), needs more width to match neighbours' visual height */
+.partner-logo-sigma2 {
+    width: 170px;
+    height: auto;
+    max-height: 70px;
+}
+
 /* Modern Card style */
 .card_style {
     border: none;
